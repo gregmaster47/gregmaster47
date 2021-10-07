@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gregmaster47
-- 👀 I’m interested in languages, trucks, fishing and working out
-- 🌱 I’m currently learning maths and physics
+- 👋 Hi, I’m Grzegorz
+- 👀 I’m interested in languages, trucks, fishing, working out and magic
+- 🌱 I’m currently learning maths, physics and english
 - 💞️ I’m looking to collaborate on Hosting BOTS![napispalmy](https://user-images.githubusercontent.com/82948752/117785384-d3734800-b244-11eb-8a16-2a3e2b7914bb.png)
 
 <!---
